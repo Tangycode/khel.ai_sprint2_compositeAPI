@@ -1,0 +1,7 @@
+{
+  "match": {"match_id": "", "innings_id": ""},
+  "player": {"player_id": "", "player_name": ""},
+  "batting_scores": [],
+  "bowling_scores": [],
+  "fielding_scores": []
+}
