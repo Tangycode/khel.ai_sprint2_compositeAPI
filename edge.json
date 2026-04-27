@@ -1,0 +1,7 @@
+{
+  "match": {"match_id": "E", "innings_id": "E"},
+  "player": {"player_id": "E1", "player_name": "Edge"},
+  "batting_scores": [50,50,50],
+  "bowling_scores": [0,0,0],
+  "fielding_scores": [10,10,10]
+}
