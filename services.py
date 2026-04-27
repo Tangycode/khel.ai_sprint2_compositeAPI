@@ -1,5 +1,5 @@
 import math
-from app.config import config
+from config import config
 
 
 def avg(arr):
