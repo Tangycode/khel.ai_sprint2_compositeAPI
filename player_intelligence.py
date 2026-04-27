@@ -1,8 +1,8 @@
 from fastapi import APIRouter
-from app.schemas import WCInput, CAInput, PVInput
-from app.services import weighted_contribution, correlation_analysis, performance_variance
-from app.exceptions import KhelAIError
-from app.logger import logger
+from schemas import WCInput, CAInput, PVInput
+from services import weighted_contribution, correlation_analysis, performance_variance
+from exceptions import KhelAIError
+from logger import logger
 
 router = APIRouter()
 
