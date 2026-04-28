@@ -261,5 +261,5 @@ Includes:
 #  Run Instructions
 pip install -r requirements.txt
 uvicorn app.main:app --reload
-📍 Health Check
+Health Check
 GET /health
